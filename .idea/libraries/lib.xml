@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kettle-engine-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdi-dataservice-client-plugin-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scannotation-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/metastore-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-vfs2-2.1-20150824.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ojdbc-7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-core-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-db-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.6.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
